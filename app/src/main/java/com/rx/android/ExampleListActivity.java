@@ -1,4 +1,4 @@
-package kurtis.rx.androidexamples;
+package com.rx.android;
 
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;

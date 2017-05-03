@@ -1,4 +1,4 @@
-package kurtis.rx.androidexamples;
+package com.rx.android;
 
 import android.app.Activity;
 
