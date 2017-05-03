@@ -17,7 +17,7 @@ import rx.Subscription;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
-public class Example3Activity extends AppCompatActivity {
+public class SinglesExampleActivity extends AppCompatActivity {
 
     private Subscription mTvShowSubscription;
     private RecyclerView mTvShowListView;

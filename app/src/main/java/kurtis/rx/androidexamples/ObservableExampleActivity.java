@@ -11,7 +11,7 @@ import java.util.List;
 import rx.Observable;
 import rx.Observer;
 
-public class Example1Activity extends AppCompatActivity {
+public class ObservableExampleActivity extends AppCompatActivity {
 
     RecyclerView mColorListView;
     SimpleStringAdapter mSimpleStringAdapter;

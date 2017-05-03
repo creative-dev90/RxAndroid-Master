@@ -36,16 +36,16 @@ public class ExampleListActivity extends AppCompatActivity {
     private static List<ExampleActivityAndName> getExamples() {
         List<ExampleActivityAndName> exampleActivityAndNames = new ArrayList<>();
         exampleActivityAndNames.add(new ExampleActivityAndName(
-                Example1Activity.class,
+                ObservableExampleActivity.class,
                 "Example 1: Simple Color List"));
         exampleActivityAndNames.add(new ExampleActivityAndName(
-                Example2Activity.class,
+                ObservableScheduler.class,
                 "Example 2: Favorite Tv Shows"));
         exampleActivityAndNames.add(new ExampleActivityAndName(
-                Example3Activity.class,
+                SinglesExampleActivity.class,
                 "Example 3: Improved Favorite Tv Shows"));
         exampleActivityAndNames.add(new ExampleActivityAndName(
-                Example4Activity.class,
+                SubjectsActivity.class,
                 "Example 4: Button Counter"));
         exampleActivityAndNames.add(new ExampleActivityAndName(
                 Example5Activity.class,

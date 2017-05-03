@@ -10,7 +10,7 @@ import android.widget.TextView;
 import rx.Observer;
 import rx.subjects.PublishSubject;
 
-public class Example4Activity extends AppCompatActivity {
+public class SubjectsActivity extends AppCompatActivity {
 
     private TextView mCounterDisplay;
     private Button mIncrementButton;

@@ -19,22 +19,22 @@
         </activity>
 
         <activity
-            android:name=".Example1Activity"
+            android:name=".ObservableExampleActivity"
             android:parentActivityName=".ExampleListActivity"
             />
 
          <activity
-            android:name=".Example2Activity"
+            android:name=".ObservableScheduler"
             android:parentActivityName=".ExampleListActivity"
             />
 
         <activity
-            android:name=".Example3Activity"
+            android:name=".SinglesExampleActivity"
             android:parentActivityName=".ExampleListActivity"
             />
 
         <activity
-            android:name=".Example4Activity"
+            android:name=".SubjectsActivity"
             android:parentActivityName=".ExampleListActivity"
             />
 
